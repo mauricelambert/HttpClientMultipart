@@ -53,7 +53,7 @@ print(response.read())
  - [Pypi](https://pypi.org/project/HttpClientMultipart)
  - [Github](https://github.com/mauricelambert/HttpClientMultipart)
  - [Documentation](https://mauricelambert.github.io/info/python/code/HttpClientMultipart.html)
- - [Python executable](https://mauricelambert.github.io/python/code/HttpClientMultipart.pyz)
+ - [Python executable](https://mauricelambert.github.io/info/python/code/HttpClientMultipart.pyz)
 
 ## License
 Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
