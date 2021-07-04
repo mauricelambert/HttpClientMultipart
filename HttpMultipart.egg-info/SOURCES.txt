@@ -1,9 +1,0 @@
-HttpMultipart.py
-MANIFEST.in
-README.md
-setup.py
-HttpMultipart.egg-info/PKG-INFO
-HttpMultipart.egg-info/SOURCES.txt
-HttpMultipart.egg-info/dependency_links.txt
-HttpMultipart.egg-info/entry_points.txt
-HttpMultipart.egg-info/top_level.txt
