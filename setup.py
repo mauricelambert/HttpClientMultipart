@@ -20,7 +20,7 @@ setup(
         "Executable": f"https://mauricelambert.github.io/info/python/code/{package.__name__}.pyz",
         "Documentation": f"https://mauricelambert.github.io/info/python/code/{package.__name__}.html",
     },
-    download_url=f"https://mauricelambert.github.io/python/code/{package.__name__}.pyz",
+    download_url=f"https://mauricelambert.github.io/info/python/code/{package.__name__}.pyz",
  
     include_package_data=True,
  
