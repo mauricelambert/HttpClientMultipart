@@ -1,4 +1,4 @@
-# HttpMultipart
+# HttpClientMultipart
 
 ## Description
 
@@ -11,7 +11,7 @@ This package require :
 
 ## Installation
 ```bash
-pip install HttpMultipart
+pip install HttpClientMultipart
 ```
 
 ## Usages
@@ -34,7 +34,7 @@ HttpMultipart --files-path "/home/user/test.csv" -u "http://example.com/post/fil
 ### Python script
 
 ```python
-from HttpMultipart import Multipart
+from HttpClientMultipart import Multipart
 from urllib.request import Request, urlopen
 
 multipart = Multipart()
@@ -50,10 +50,10 @@ print(response.read())
 ```
 
 ## Links
- - [Pypi](https://pypi.org/project/HttpMultipart)
- - [Github](https://github.com/user/HttpMultipart)
- - [Documentation](https://user.github.io/info/python/code/HttpMultipart.html)
- - [Python executable](https://user.github.io//python/code/HttpMultipart.pyz)
+ - [Pypi](https://pypi.org/project/HttpClientMultipart)
+ - [Github](https://github.com/mauricelambert/HttpClientMultipart)
+ - [Documentation](https://mauricelambert.github.io/info/python/code/HttpClientMultipart.html)
+ - [Python executable](https://mauricelambert.github.io/python/code/HttpClientMultipart.pyz)
 
 ## License
 Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).

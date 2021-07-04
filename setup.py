@@ -1,5 +1,5 @@
 from setuptools import setup
-import HttpMultipart as package
+import HttpClientMultipart as package
 
 setup(
     name=package.__name__,
@@ -42,7 +42,7 @@ setup(
 
     entry_points = {
         'console_scripts': [
-            'HttpMultipart = HttpMultipart:main'
+            'HttpMultipart = HttpClientMultipart:main'
         ],
     },
     python_requires='>=3.6',
